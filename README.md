@@ -206,3 +206,7 @@ GROUP BY shift
 ## Conclusion
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
+
+## Author - JoelTheAnalyst
+LinkedIn:[connect with me professionally][https://www.linkedin.com/in/joel-bumba-66ba9321a/]
