@@ -209,4 +209,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 ## Author - JoelTheAnalyst
-LinkedIn:[connect with me professionally][https://www.linkedin.com/in/joel-bumba-66ba9321a/]
+LinkedIn:[connect with me professionally(https://www.linkedin.com/in/joel-bumba-66ba9321a/)]
