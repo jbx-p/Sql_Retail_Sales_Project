@@ -209,5 +209,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 ## Author - JoelTheAnalyst
-LinkedIn:[connect with me professionally] (https://www.linkedin.com/in/joel-bumba-66ba9321a/)
-Gmail: [connect with me professionally](joelbumbatshivungiya@gmail.com)
+	- LinkedIn:[connect with me professionally](https://www.linkedin.com/in/joel-bumba-66ba9321a/)
+	
+	- Gmail: [connect with me professionally](joelbumbatshivungiya@gmail.com)
